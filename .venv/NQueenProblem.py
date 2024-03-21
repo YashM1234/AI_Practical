@@ -1,4 +1,4 @@
-# Aim:Write a python program to implement the solution to the 8 queen problem in AI using suitable algorithm.
+# Aim:Write a python program to implement the solution to the N queen problem in AI using suitable algorithm.
 # Taking number of queens as input from user
 print("Enter the number of queens: ")
 N = int(input())
